@@ -1,4 +1,13 @@
 # Introduction
+### 조윤주
+
+*DKU Software*
+
+<img width="30%" src="https://user-images.githubusercontent.com/99892677/165037908-14e3fdf5-9ff0-4f76-bbec-6be3671793c3.jpg"/>
+
+***
+💬*email : yoonj1860@naver.com*  
+💬*instagram :https://www.instagram.com/you_unju* 
 <!--
 **choyunju/choyunju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
